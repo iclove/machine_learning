@@ -34,6 +34,7 @@
 ![](http://7xkmdr.com1.z0.glb.clouddn.com/lr5.jpg)
 
 Sigmoid 函数在有个很漂亮的“S"形，如下图所示（引自维基百科）：
+
 ![](https://pic2.zhimg.com/v2-b6c0a14d298c4857cabc80bb27aecba1_b.png)
 
 
@@ -57,3 +58,15 @@ Cost函数和J函数如下，它们是基于最大似然估计推导得到的。
 梯度下降法求的最小值:
 
 ![](https://pic3.zhimg.com/v2-631267a13f028b13e3c75b07a8b963f2_b.png)
+
+### 参考文档
+
+- [1], [Logistic Regression Theory](http://www.csuldw.com/2016/09/19/2016-09-19-logistic-regression-theory/)
+- [2], [机器学习-损失函数](http://www.csuldw.com/2016/03/26/2016-03-26-loss-function/)
+- [3], [机器学习算法与Python实践之（七）逻辑回归（Logistic Regression）](http://blog.csdn.net/zouxy09/article/details/20319673)
+- [4], [线性回归算法](http://blog.kamidox.com/gradient-descent.html)
+- [5], [机器学习算法与Python实践之（七）逻辑回归（Logistic Regression）](http://blog.csdn.net/zouxy09/article/details/20319673)
+- [6], [回归方法及其python实现](http://zhihaozhang.github.io/2016/03/17/regression/)
+- [7], [机器学习系列-Logistic回归：我看你像谁 （上篇）](https://zhuanlan.zhihu.com/p/22564500)
+- [8], [机器学习系列-Logistic回归：我看你像谁 （下篇）](https://zhuanlan.zhihu.com/p/22692266)
+
