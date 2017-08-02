@@ -16,7 +16,7 @@
 
 假设我们的样本是{x, y}，y是0或者1，表示正类或者负类，x是我们的m维的样本特征向量。那么这个样本x属于正类，也就是y=1的“概率”可以通过下面的逻辑函数来表示：
 	
-![逻辑函数](http://img.blog.csdn.net/20140302234136062?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvem91eHkwOQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![逻辑函数](https://img.wkcontent.com/assets/2017-08-02/80636356-fb75-4b7e-8952-40dc2b17fcae.png)
 
 这里θ是模型参数，也就是回归系数，σ是sigmoid函数。实际上这个函数是由下面的对数几率（也就是x属于正类的可能性和负类的可能性的比值的对数）变换得到的：
 
